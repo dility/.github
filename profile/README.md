@@ -4,10 +4,10 @@
 
 > next generation Digital Workshop Platform
 
-- [x] organized
-- [x] automated
-- [x] online
-- [x] best instustry proven methods
+- [x] 🧺 organized
+- [x] 🤖 automated
+- [x] 🌎 online
+- [x] 📝 best instustry proven methods
 
 <!--
 
